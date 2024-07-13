@@ -12,7 +12,7 @@
   <!-- Tailwind CSS for styling - r u proud?? -->
   <div class="mb-4">
 <!-- Title -->
-    <p>Find the clit!</p>
+    <p class="text-2xl font-bold text-center text-pink-700">Find the clit!</p>
   </div>
   
   <!-- button moving randomly using inline styles -->
