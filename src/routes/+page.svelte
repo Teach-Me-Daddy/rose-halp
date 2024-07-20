@@ -16,7 +16,7 @@
 
 <!-- hell yeah tailwind-->
 <div class="mb-4">
-  <!-- title -->
+  <!-- Title -->
   <p class="text-2xl font-bold text-center text-yellow-100">Find the button!</p>
   <p class="text-center text-lg text-white">Button clicked {clickCount} times</p> <!-- Display click count -->
 </div>
@@ -34,7 +34,7 @@
   :global(body) {
     background: linear-gradient(to right, #f3c1d1, #f4e8b5, #d1f4c6, #b5d6f4, #f4b5f7);
     background-size: 400% 400%;
-    animation: gradient 15s ease infinite;
+    animation: gaydient 15s ease infinite;
   }
 
   @keyframes gaydient {
