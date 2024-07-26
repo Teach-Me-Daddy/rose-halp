@@ -12,8 +12,8 @@
   // Function to move the button to a random position on screen and start counting clicks
   function moveButton() {
     // Ensure button stays within view
-    positionX = Math.random() * (window.innerWidth - buttonWidth - 20); // 20px margin
-    positionY = Math.random() * (window.innerHeight - buttonHeight - 20); // 20px margin
+    positionX = Math.random() * (window.innerWidth - buttonWidth - 5); // 20px margin
+    positionY = Math.random() * (window.innerHeight - buttonHeight - 254 - 5); // 20px margin
     clickCount += 1; // Click counter
   }
 
